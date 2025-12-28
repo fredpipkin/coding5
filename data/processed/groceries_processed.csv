@@ -1,0 +1,51 @@
+item,category,item_clean,category_id
+apples,Fruit & Vegetables,apple,4
+bananas,Fruit & Vegetables,banana,4
+oranges,Fruit & Vegetables,orange,4
+spinach,Fruit & Vegetables,spinach,4
+carrots,Fruit & Vegetables,carrot,4
+potatoes,Fruit & Vegetables,potato,4
+broccoli,Fruit & Vegetables,broccoli,4
+cucumber,Fruit & Vegetables,cucumber,4
+tomatoes,Fruit & Vegetables,tomato,4
+lettuce,Fruit & Vegetables,lettuce,4
+eggs,Eggs & Dairy,egg,2
+milk,Eggs & Dairy,milk,2
+cheddar cheese,Eggs & Dairy,cheddar cheese,2
+butter,Eggs & Dairy,butter,2
+yoghurt,Eggs & Dairy,yoghurt,2
+cream,Eggs & Dairy,cream,2
+chicken breast,Meat & Fish,chicken breast,6
+beef mince,Meat & Fish,beef mince,6
+salmon fillet,Meat & Fish,salmon fillet,6
+pork chops,Meat & Fish,pork chop,6
+cod fillet,Meat & Fish,cod fillet,6
+turkey slices,Meat & Fish,turkey slice,6
+bread,Bakery,bread,0
+bagels,Bakery,bagel,0
+croissants,Bakery,croissant,0
+muffins,Bakery,muffin,0
+sourdough loaf,Bakery,sourdough loaf,0
+pasta,Pantry / Dry Goods,pasta,7
+rice,Pantry / Dry Goods,rice,7
+tinned tomatoes,Pantry / Dry Goods,tinned tomato,7
+olive oil,Pantry / Dry Goods,olive oil,7
+flour,Pantry / Dry Goods,flour,7
+crisps,Snacks,crisp,8
+chocolate bar,Snacks,chocolate bar,8
+biscuits,Snacks,biscuit,8
+nuts,Snacks,nut,8
+granola bar,Snacks,granola bar,8
+orange juice,Drinks,orange juice,1
+coffee,Drinks,coffee,1
+tea bags,Drinks,tea bag,1
+sparkling water,Drinks,sparkling water,1
+frozen peas,Frozen Foods,frozen pea,3
+ice cream,Frozen Foods,ice cream,3
+frozen pizza,Frozen Foods,frozen pizza,3
+frozen berries,Frozen Foods,frozen berry,3
+washing up liquid,Household,washing up liquid,5
+toilet paper,Household,toilet paper,5
+dishwasher tablets,Household,dishwasher tablet,5
+kitchen towels,Household,kitchen towel,5
+laundry detergent,Household,laundry detergent,5
